@@ -4,3 +4,4 @@ var pregnant_cats = 4.5;
 var pizza_sause = true;
 var pizza_sause = false;
 var soda_inventry = ["Coke", "Orange", "Remonado"]
+var snack_inventry = ["Tips", "Candy", "Gum"]
